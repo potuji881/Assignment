@@ -1,2 +1,5 @@
 # Assignment
-齊藤 明王です。私がマスターです。
+A.Saitoです。私がMasterです。<br>
+I'm master.<br>
+君もMasterではない。<br>
+You aren't master.<br>
